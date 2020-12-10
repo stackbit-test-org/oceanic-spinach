@@ -10,8 +10,8 @@ sections:
       line one
       <br>
 
-      line two
-      <br>
+      line
+      two
 
       line three
     actions:
