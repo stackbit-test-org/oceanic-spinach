@@ -10,8 +10,10 @@ sections:
       Azimuth is the perfect theme for developers,
       <br>
 
-      designers and entrepreneurs who need a sleek, modern SaaS site. 
+      designers and entrepreneurs who need a
       <br>
+
+      sleek, modern SaaS site. 
 
       hello
     actions:
