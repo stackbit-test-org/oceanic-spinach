@@ -8,6 +8,12 @@ sections:
     title: This Is A Big Hero Headline
     content: |
       line one
+      <br>
+
+      line two
+      <br>
+
+      line three
     actions:
       - label: Learn More
         url: /features
