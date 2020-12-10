@@ -11,7 +11,6 @@ sections:
       <br>
 
       line
-
       two
       <br>
 
