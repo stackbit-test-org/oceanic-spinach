@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: |
-      Azimuth is the
-      <br>
+      Azimuth is 
+      the
 
       perfect theme
       <br>
