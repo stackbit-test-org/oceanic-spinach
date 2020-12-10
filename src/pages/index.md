@@ -7,7 +7,10 @@ sections:
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: |
-      Azimuth is the perfect theme for developers.
+      Azimuth is the perfect
+      <br>
+
+      theme for developers.
     actions:
       - label: Learn More
         url: /features
