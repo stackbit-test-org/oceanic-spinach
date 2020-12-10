@@ -11,7 +11,9 @@ sections:
       <br>
 
       line
+
       two
+      <br>
 
       line three
     actions:
